@@ -1,0 +1,20 @@
+{
+  "name": "wordle-solver-main",
+  "version": "1.0.0",
+  "description": "Wordle-Solver helps people who struggle with vocabulary enjoy the famous game of [WORDLE](https://www.powerlanguage.co.uk/wordle/).  So that those who find WORDLE extremely hard, just like the developer of Wordle-Solver, will not be embarrassed for not knowing the hidden word of the day or being unable to show their tries.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "python-shell": "^3.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}

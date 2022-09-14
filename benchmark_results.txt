@@ -1,0 +1,11 @@
+Benchmarking using all words of 5 letters (no plurals) from english_words_original_wordle.txt completed in 195.3777048587799s
+Solver word lists: english_words_opener.txt -> english_words_full.txt
+9049 words - average: 4.608133495413858 tries
+Guessing failed within 6 tries: 847 words
+
+---
+
+Benchmarking using all words of 5 letters (no plurals) from english_words_full.txt completed in 314.0159592628479s
+Solver word lists: english_words_opener.txt -> english_words_full.txt
+14463 words - average: 4.570974210053239 tries
+Guessing failed within 6 tries: 1097 words
